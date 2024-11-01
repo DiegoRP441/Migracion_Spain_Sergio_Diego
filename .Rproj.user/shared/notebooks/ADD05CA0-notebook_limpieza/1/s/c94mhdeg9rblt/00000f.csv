@@ -1,0 +1,6 @@
+"0","df_2021_europe <- df_2021_europe %>%"
+"0","  mutate("
+"0","    latitude = ifelse(Nacionalidad == ""France"", 46.603354, latitude),"
+"0","    longitude = ifelse(Nacionalidad == ""France"", 1.888334, longitude)"
+"0","  )"
+"0",""

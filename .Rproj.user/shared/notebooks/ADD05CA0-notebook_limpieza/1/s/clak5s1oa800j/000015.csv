@@ -1,0 +1,6 @@
+"0","df_2021$Pais_de_nacimiento <- NULL"
+"0","df_2021$Año <- NULL"
+"0","df_2021 <- df_2021 %>%"
+"0","  rename(Migraciones_2021 = Total)"
+"0",""
+"0","head(df_2021)"

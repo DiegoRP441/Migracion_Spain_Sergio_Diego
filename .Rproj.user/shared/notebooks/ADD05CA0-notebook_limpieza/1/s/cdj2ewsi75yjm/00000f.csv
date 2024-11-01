@@ -1,0 +1,10 @@
+"0","devtools::install_github(""ChristopherLucas/translateR"")"
+"2","WARNING: Rtools is required to build R packages, but is not currently installed.
+
+Please download and install Rtools 4.4 from https://cran.r-project.org/bin/windows/Rtools/.
+"
+"2","Using GitHub PAT from the git credential store.
+"
+"2","Skipping install of 'translateR' from a github remote, the SHA1 (f8ebd4ca) has not changed since last install.
+  Use `force = TRUE` to force installation
+"

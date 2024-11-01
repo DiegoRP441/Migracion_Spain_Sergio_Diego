@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "inemigraciones",
+  "private_key_id": "2803207280de748b63c82782cb4ad5b29635196c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOkR05TcagxWMm\nDiM6e0noh8zaYnzcTJzB7GcMZgU+3Ls2LoZ16HpwDD63X3rcdZnk9ZE22N1X5U2I\nDkKfaDQIqE2m9RaoD/crmTjq/7xsKeSQyEgYniG+b7YTNWXAHEeERSg7f/ZL/yAx\nBDj0T6TMohxU7zFQ9Gl4cc1tQTCxWgXRpQiwSMlsOjM1UKYaXN64dioXKDMMAv1F\nCEaMCquDZsPTkT5xICYOZHT0C+HQPGQRXuMMkG0zuryPcbkgNiJ5Veu37E/hcweW\nZyIuASLu+hPqRQPW77sylZXxob3Th5Sj/n4ncXUZN1NzxTLuVL6Fz9kk2Onw5tmM\nkTSz3uxPAgMBAAECggEAAdFC7LqI13a4rzX5oe2zp32YKWzWEvQgDSz2ILL3Fy7j\nbwHFc90fRG7GQkPEoFoLa6QBsa7mAIqVjG+DPVNAU0hJIp35FXJ1LhlMZ/VY1f91\nBxVM6t2ka1yvCF07hMg+eCwtJtTdcbllavHgENo3pbJgjOGkwwv36HsaEYsSH6jh\ncct1kF8IDe42jZQiKOferyoGm7u6fDjavfYYyiRxn5MC0lOPKufgXu2JjdnTzSUB\n8TBu6H01ClWqcwH/hPgDkKkeEgIH0xO4i42XlZvm/080+hzl0KZHrOrC4ixRcRYq\n9sTmFrWy8ISn8JGK/xW0NKciPMrbIl18P0Ys5GKHSQKBgQDwqz5yJCQGRGbgYqU4\nsNxkSKVCNfZaiAqBPzhy1SwVfWVSw9lzuZ91F7yDaB/zapwNY2kn/qNXE0xO4Z6C\nw/ZI8n6EmDhunFGSf8jEtyFMnFbpG3m4NA8pHOuoSDsSmDcxbZbPwqJeD6g689A+\nVnwOjXX0IawMpDCb8YXhtoL8VwKBgQDbub51eQKoofjYuVq3N7bf2E2dhbwSNGXd\np8LQ0is55BSnGdvhM8uy2daq2z+HKTUa7VSsUH7eiZYQC/7VPlckrZVYd2RVyjqD\nJjIGHBAiPzWNIRVfUp+0dFULnBdLbNFW4hxqtrFmnAccTBf50JYJUloKu81RxObO\nTL3zHTAUyQKBgQDAlohWFo2tZjddABNvFjiHF4sHPN9y+sJNQyYM3oF0gPAAFzF/\n5d6weNol3cETrRBLtm2Dz8Ut/QdnaCzMP7xqC4Mq4BTojrbIIPGsWU+QWttBlvcE\nbMRlBfueoo6DBsPEDgpNH1eHJchdxJW0DMkhbBojzn47b3hmkhOs17xh6QKBgFUl\nITz8a59VRM0W5qRhHqiXdVw5WqvjSiYewEuTZdTFIYuvZZlbLPBdoeYLmA6UVVPd\n7BXqC3/I6THGtDWGNtarvVfOzD7CYvI3duMPNOFQhTvvOgz6Q5D2E46wKga8YFK+\nxCxGJ3CPveGlSxUvUzTBiMroA6RQHPCMpH71LJChAoGBANg5Id4fyRJr6lzJzBjC\n1PrA511lrFhZ+Y2lcZFsk4w4nx0YQheAOqMfTA/L6SNl0Y6sDCvVs01yUjUUTueK\ni6w5yd6DKWSqgf0ZingmxKq+ThauQ5qP0G+Qbpw6aDSG0yi2Zu51R6ZURhG9KQX7\njZlb1zfypK7Z+d05DYpIWTID\n-----END PRIVATE KEY-----\n",
+  "client_email": "traduce@inemigraciones.iam.gserviceaccount.com",
+  "client_id": "104140760237120422017",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/traduce%40inemigraciones.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
