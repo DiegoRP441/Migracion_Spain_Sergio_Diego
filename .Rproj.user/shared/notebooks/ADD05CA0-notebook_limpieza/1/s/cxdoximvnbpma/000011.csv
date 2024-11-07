@@ -1,4 +1,0 @@
-"0","df_2021_europe <- df_2021 %>%"
-"0","  mutate(continente = countrycode(Nacionalidad, origin = ""country.name"", destination = ""continent"")) %>%"
-"0","  filter(continente == ""Europe"")"
-"0",""

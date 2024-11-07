@@ -1,2 +1,0 @@
-"0","write.csv(df_2021_europe, ""df_2021_europe_limpio.csv"", row.names = FALSE)"
-"0","write.csv(df_2021, ""df_2021_limpio.csv"", row.names = FALSE)"

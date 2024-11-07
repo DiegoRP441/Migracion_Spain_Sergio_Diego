@@ -1,7 +1,0 @@
-"0","df_2021 <- df_2021 %>%"
-"0","  select(-Nacionalidad) %>%                      # Eliminar la columna `Nacionalidad` en español"
-"0","  rename(Nacionalidad = Nacionalidad_ingles) %>% # Renombrar `Nacionalidad_ingles` a `Nacionalidad`"
-"0","  select(Nacionalidad, everything())             # Mover la nueva `Nacionalidad` a la primera posición"
-"0",""
-"0","# Verificar el resultado"
-"0","head(df_2021)"

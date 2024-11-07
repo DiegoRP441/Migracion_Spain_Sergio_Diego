@@ -1,6 +1,0 @@
-"0","df_2021 <- df %>%"
-"0","  mutate(Año = substr(Periodo, 1, 4)) %>% "
-"0","  group_by(Nacionalidad, Pais_de_nacimiento, Año) %>%"
-"0","  summarise(Total = sum(Total, na.rm = TRUE), .groups = 'drop') "
-"0",""
-"0","head(df_2021)"
